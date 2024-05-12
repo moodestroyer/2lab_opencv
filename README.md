@@ -29,6 +29,12 @@
 
 1. Оригинальное изображение
 
+![image](https://github.com/moodestroyer/2lab_opencv/assets/82328325/1156a189-b0d2-45b4-8064-47724b83510d)
+
+2. Найденные круги и линии
+
+![image](https://github.com/moodestroyer/2lab_opencv/assets/82328325/788accdd-d7ca-4874-b5a0-a3139d3a714e)
+
 
 
 
